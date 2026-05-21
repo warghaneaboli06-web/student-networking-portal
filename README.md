@@ -1,6 +1,6 @@
 # student-networking-portal
 
-# Student Professional Networking Portal
+
 
 ## Description
 Student Professional Networking Portal is a responsive web application developed using HTML and CSS.  
